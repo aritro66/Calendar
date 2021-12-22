@@ -1,1 +1,3 @@
-# Calender
+# Calendar
+
+Simple Calendar Website
